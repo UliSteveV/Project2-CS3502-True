@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPS-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+450c944cef4a30939a4bea98c4930f357cd1494c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14ce5c7916cbf1b5ceefd2d19df413467d6caa38")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPS-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPS-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
